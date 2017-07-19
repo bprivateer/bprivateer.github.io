@@ -16,4 +16,6 @@ i will..
 <li>and most importantly i will have fun with this and probably open up personally about my life and my days in this new world (it's a new world to me)</li>
 </ul>
 <b><h3>:)</b></h3>
+<br>
+you can check out my github <a href="https://github.com/bprivateer/">here!</a>
 </html>
